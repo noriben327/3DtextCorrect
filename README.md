@@ -1,4 +1,4 @@
-#3DtextHide
+# 3DtextHide
 
 ■DL https://github.com/noriben327/3DtextHide/raw/master/3DtextHide.unitypackage
 
