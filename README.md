@@ -1,7 +1,7 @@
 Unityで3D Textが最前面になってしまうのを変更するシェーダ及びフォントのセットです。
 フォントは改変、商用利用、再配布可能なM+ FONTSです。
 
-It is a shader and font that changes that 3D Text becomes frontmost in Unity. Fonts are M + FONTS which can be modified, commercial use, redistributable.
+It's a font and shader that prevents 3D Text from becoming frontmost in Unity.. Fonts are M + FONTS which can be modified, commercial use, redistributable.
 
 <img src="https://raw.githubusercontent.com/noriben327/3DtextHide/master/3DtextHide_sampleIMG.jpg">
 
