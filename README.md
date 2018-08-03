@@ -1,7 +1,7 @@
 Unityで3D Textが最前面になってしまうのを変更するシェーダ及びフォントのセットです。
 フォントは改変、商用利用、再配布可能なM+ FONTSです。
 
-<img href="https://raw.githubusercontent.com/noriben327/3DtextHide/master/3DtextHide_sampleIMG.jpg">
+<img src="https://raw.githubusercontent.com/noriben327/3DtextHide/master/3DtextHide_sampleIMG.jpg">
 
 参考にしたサイト
 http://wiki.unity3d.com/index.php/3DText
