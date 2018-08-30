@@ -1,6 +1,6 @@
 # 3DtextHide
 
-■DL https://github.com/noriben327/3DtextHide/raw/master/3DtextHide.unitypackage
+■DL 右上の緑のClone or downloadから。
 
 ■Unityで3D Textが最前面になってしまうのを変更するシェーダ及びフォントのセットです。
 フォントは改変、商用利用、再配布可能なM+ FONTSです。
